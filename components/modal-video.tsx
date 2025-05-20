@@ -126,7 +126,7 @@ export default function ModalVideo({
                 controls
               >
                 <source src={video} type="video/mp4" />
-                Your browser does not support the video tag.
+                Tarayıcınız video etiketini desteklemiyor.
               </video>
             </DialogPanel>
           </div>
